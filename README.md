@@ -4,6 +4,7 @@ Tip about the global cyber warfare space: global.cyber.warfare.space@gmail.com
 Short: GCWS.
 
 Company project. 
+
 Goals: 
 + Make a cyber space for everyone.
 + Create an anonymous zero-trust report platform/service for everyone.
