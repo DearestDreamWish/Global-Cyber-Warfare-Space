@@ -5,6 +5,9 @@ Short: GCWS.
 
 Company project. 
 
+Important! Not started yet.
+
+
 Goals: 
 + Make a cyber space for everyone.
 + Create an anonymous zero-trust report platform/service for everyone.
