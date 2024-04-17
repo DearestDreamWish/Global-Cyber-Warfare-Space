@@ -1,11 +1,11 @@
 # Global-Cyber-Warfare-Space
+# Important! Not started yet.
 Tip about the global cyber warfare space: global.cyber.warfare.space@gmail.com
 
 Short: GCWS.
 
 Company project. 
 
-Important! Not started yet.
 
 
 Goals: 
