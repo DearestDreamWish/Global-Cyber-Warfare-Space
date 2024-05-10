@@ -1,10 +1,10 @@
 # Global-Cyber-Warfare-Space
 # Important! Not started yet.
-Tip about the global cyber warfare space: global.cyber.warfare.space@gmail.com
-Important! Not started yet.
-Short: GCWS.
+I will in the future create a company or organisation named: Global Cyber Warfare Space.
 
-A project. 
+Important! Not started yet.
+Tip about the global cyber warfare space: global.cyber.warfare.space@gmail.com
+Short: GCWS.
 Important! Not started yet.
 
 
@@ -13,7 +13,7 @@ Goals:
 + Create an anonymous zero-trust report platform/service for everyone.
 + Have cyber operators, other kind of operators and media professionals to act on every information with no informer disclosure.
 
-Participate or contribute as you wish. Contact by mail invulnerableimmortal@gmail.com if needed.
+Participate or contribute as you wish. Contact by mail invulnerableimmortal@gmail.com if needed or hack my devices.
 ![Logo with background](https://github.com/DearestDreamWish/Global-Cyber-Warfare-Space/blob/main/Company%20logo%20w%20b)
 ![Logo without background](https://github.com/DearestDreamWish/Global-Cyber-Warfare-Space/blob/main/logo%20WO%20B.png)
 Which looks better and for what. Give reason.
