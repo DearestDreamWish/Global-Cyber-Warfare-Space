@@ -3,8 +3,11 @@
 I will in the future create a company or organisation named: Global Cyber Warfare Space.
 
 Important! Not started yet.
-Tip about the global cyber warfare space: global.cyber.warfare.space@gmail.com
+
+Tip to the global cyber warfare space: global.cyber.warfare.space@gmail.com
+
 Short: GCWS.
+
 Important! Not started yet.
 
 
