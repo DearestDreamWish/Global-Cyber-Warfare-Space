@@ -9,8 +9,9 @@ In app store.
 To register it only needs an username and password.
 The same for login.
 
-My ghostid is
+My ghostid is:
 +TRADING
+
 Add me for trade or anything else.
 
 Additionally I sell or can trade with:
